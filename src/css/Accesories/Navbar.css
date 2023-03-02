@@ -1,0 +1,9 @@
+/* Esta clase te permite cambiarle el color de fondo, el padding y otras propiedades al contenedor del navbar*/
+.navbar {
+  background-color: #fff;
+}
+
+/* Esta clase te permite modificar los links del navbar*/
+.nav-link {
+  color: #fa111f;
+}
